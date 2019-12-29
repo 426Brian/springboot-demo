@@ -1,0 +1,8 @@
+spring.mvc.view.prefix= /WEB-INF/jsp/
+spring.mvc.view.suffix= .jsp
+welcome.message= hello springboot web
+
+spring.thymeleaf.cache=false
+spring.thymeleaf.enabled=false
+
+name=notWebApplication

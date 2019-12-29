@@ -1,0 +1,24 @@
+# spring mvc #
+spring.mvc.view.prefix: /WEB-INF/jsp/
+spring.mvc.view.suffix: .jsp
+
+# test parameter #
+email: test@Brian.com
+threadPool: 10
+
+# test parameter #
+app:
+   compiler:
+    timeout: 5
+    outputFolder: /temp/
+   error: /error/
+   menus:
+    - title: Home
+      name: Home
+      path: /Home
+    - title: Login
+      name: Login
+      path: /Login
+
+
+welcome.message: hello springBoot

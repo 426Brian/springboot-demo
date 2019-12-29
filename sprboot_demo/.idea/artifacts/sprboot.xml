@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="sprboot">
+    <output-path>$PROJECT_DIR$/src/main/webapp</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="sprboot_demo/web/webapp" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="sprboot_demo" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
